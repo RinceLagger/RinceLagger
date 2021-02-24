@@ -6,9 +6,13 @@
 [![Linkedin: Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-fernandezgarcia/)](https://www.linkedin.com/in/pablo-fernandezgarcia/)
 
 
+### A little bit about me 🧐
 
 
-<!--
-**RinceLagger/RinceLagger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> I am Industrial Engineer with a great international background who has discovered his passion for programming. Therefore I started studying Computer Engineering through the UNED (currently finishing the third year) and I liked it so much that I decided to do a Bootcamp through Ironhack to be able to develop Web applications at a professional level.
+</p>
+
+<p>If you are looking for a crazy programmer enthusiast, that's me! 🤓 </p>
+<br>
 
 
