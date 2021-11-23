@@ -10,7 +10,7 @@
 ### A little bit about me... 🧐
 
 
-<p> I am Industrial Engineer with a great international background who has discovered his passion for programming. Therefore I started studying Computer Engineering through the UNED (currently finishing the third year) and I liked it so much that I decided to do a Bootcamp through Ironhack to be able to develop Web applications at a professional level.
+<p> I am Industrial Engineer with a great international background who has discovered his passion for programming. Therefore I started studying Computer Engineering through the UNED (currently finishing the last year) and I liked it so much that I decided to do a Bootcamp through Ironhack to be able to develop Web applications at a professional level.
 </p>
 
 <p>If you are looking for a crazy programmer enthusiast, that's me! 🤓 </p>
